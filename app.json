@@ -1,0 +1,38 @@
+{
+  "id": "aad7fd1d-cc6a-46c4-8c48-aa9502566126",
+  "name": "LicensePermissions",
+  "publisher": "Mark Brummel",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "15.0.0.0",
+  "idRanges": [
+    {
+      "from": 98765,
+      "to": 98766
+    }
+  ],
+  "target": "Internal",
+  "showMyCode": true,
+  "runtime": "4.0"
+}
